@@ -1,0 +1,51 @@
+nav{
+    background-color: red;
+    text-align: right;
+}
+a{
+    font-size: 30px;
+    background-color: blue;
+    margin-left: 10px;
+}
+#img2-5{
+    width: 400px;
+}
+section{
+    background-color: antiquewhite;
+
+
+}
+h1{
+    background-color: brown;
+    text-align: center;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 0;
+}
+h6{
+    background-color: aquamarine;
+    text-align: right;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+p{
+    background-color: beige;
+    display: inline;
+    
+
+}
+div{
+    background-color: blue;
+    width: 10px;
+
+}
+.cajas{
+    width: 10%;
+}
+
+.cajasnoticias{
+    background-color: aliceblue;
+    width: 10px;
+}
+
